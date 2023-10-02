@@ -4,3 +4,7 @@ ERA Infotech Ltd
 ## Experience
 
  2 years
+
+ ##Tech Stack
+
+ React,Node
