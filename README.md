@@ -8,3 +8,4 @@ ERA Infotech Ltd
  ## Tech Stack
 
  React,Node
+- B.Tech from IIEST
