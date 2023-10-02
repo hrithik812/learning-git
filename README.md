@@ -5,6 +5,6 @@ ERA Infotech Ltd
 
  2 years
 
- ##Tech Stack
+ ## Tech Stack
 
  React,Node
